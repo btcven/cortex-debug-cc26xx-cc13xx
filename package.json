@@ -3,13 +3,13 @@
 	"name": "cortex-debug-dp-cc26xx-cc13xx",
 	"displayName": "Cortex-Debug: Device Support Pack - CC26xx/CC13xx",
 	"description": "This package contains additional support functionality (SVD definitions) for Cortex-Debug for Texas Instruments CC26xx/CC13xx devices",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/btcven/cortex-debug-dp-cc26xx-cc13xx.git"
+		"url": "https://github.com/btcven/cortex-debug-cc26xx-cc13xx.git"
 	},
 	"license": "Apache-2.0",
-	"homepage": "https://github.com/btcven/cortex-debug-dp-cc26xx-cc13xx",
+	"homepage": "https://github.com/btcven/cortex-debug-cc26xx-cc13xx",
 	"engines": {
 		"vscode": "^1.34.0"
 	},
