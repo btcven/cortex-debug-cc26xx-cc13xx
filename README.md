@@ -13,8 +13,6 @@
 This is an extension compatible with Cortex-Debug > v0.3.0, adds the necessary
 SVD files for the Texas Instruments CC26xx/CC13xx MCU family (SimpleLink).
 
-**Maintained by:** [jeandudey](https://github.com/jeandudey/)
-
 **Supported devices:**
 
 This extension provides SVD files for these MCUs:
